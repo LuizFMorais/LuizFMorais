@@ -13,6 +13,7 @@ O melhor de tudo é que eu acabei "contaminando" meu pai com o meu amor por prog
 #### Abilidades Em Desenvolvimento
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; ![GameMaker](https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white)&nbsp;
 
-#### IDE Que Eu Uso
+#### Ferramentas Que Eu Uso
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Windows 10](https://img.shields.io/badge/Windows_10-0078d4?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Usaco](https://img.shields.io/badge/usaco_ide-black?style=for-the-badge&logo=&logoColor=white)&nbsp;
