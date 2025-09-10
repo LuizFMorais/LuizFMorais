@@ -4,11 +4,15 @@ Olá, pessoal! Meu nome é Luiz Farias e eu sou um garoto de 11 anos de Campina 
 Nela, eu criava jogos e animações. Quando eu fiquei maior, meu pai me ajudou a aumentar nas minhas habilidades. Aos 10 anos, ele me mostrou um curso de Python (não é a cobra, é uma linguagem de programação!), e eu mergulhei de cabeça.
 O melhor de tudo é que eu acabei "contaminando" meu pai com o meu amor por programação. Agora, ele também está aprendendo e está sempre me ajudando!
 
-## Abilidades príncipais
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+#### Abilidades Príncipais
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Scratch](https://img.shields.io/badge/Scratch-yellow?style=for-the-badge&logo=scratch&logoColor=white)&nbsp;
 
-## Abilidades secundárias
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+#### Abilidades Secundárias
+![Construct](https://img.shields.io/badge/Construct-black?style=for-the-badge&logo=construct3&logoColor=white)&nbsp;
 
-## Uso
+#### Abilidades Em Desenvolvimento
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; ![GameMaker](https://img.shields.io/badge/GameMaker-black?style=for-the-badge&logo=gamemaker&logoColor=white)&nbsp;
+
+#### IDE Que Eu Uso
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Usaco](https://img.shields.io/badge/usaco_ide-black?style=for-the-badge&logo=&logoColor=white)&nbsp;
