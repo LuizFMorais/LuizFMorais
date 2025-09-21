@@ -3,7 +3,8 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu ❤️ programar jogos. <br><br>
-📫 Converse comigo: luizfmorais06.14@gmail.com</p>&nbsp;
+📫 Converse comigo: luizfmorais06.14@gmail.com</p>
+<p align="center">Itch.io: https://bananebos-productions.itch.io/<br><br>
 
 Olá, pessoal! Meu nome é Luiz Farias e eu sou um garoto de 11 anos de Campina Grande, na Paraíba.
 E sim, meu cérebro já é praticamente um computador, mas sem a parte de precisar de café ☕
